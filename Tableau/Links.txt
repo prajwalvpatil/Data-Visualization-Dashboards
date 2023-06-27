@@ -1,0 +1,7 @@
+Links for Tableau Dashboards:
+
+1. Covid 19 Dashboard:
+https://public.tableau.com/views/Covid-19Dashboards_16876288963520/INDIA?:language=en-US&:display_count=n&:origin=viz_share_link 
+
+2. Air Travel Dashboard:
+https://public.tableau.com/views/SFOFlightsDataDataset/SFOFlightsDataDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
